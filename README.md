@@ -1,4 +1,4 @@
-# EXP-4-Home-Automation-System-with-IOT
+<img width="540" height="369" alt="image" src="https://github.com/user-attachments/assets/4c56c12f-a1b1-4070-8a60-ec6df1126fd4" /># EXP-4-Home-Automation-System-with-IOT
 
 # Aim:
 	To make a Lamp at home (230 V AC) On / Off using ESP8266, IFTT Google Assistance and Blynk IoT mobile application. 
@@ -47,6 +47,10 @@ When we apply an active high signal to the signal pin of the relay module from a
 
 
 # Output:
+
+
+https://github.com/user-attachments/assets/2a8604ba-8dc5-4c97-b11a-7303345f688d
+
 
 # Result:
 
